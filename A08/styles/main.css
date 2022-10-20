@@ -28,6 +28,10 @@ header h3{
 	font-style:italic;
 	text-indent:30px;
 }
+.shadow{
+	color:#800000;
+	text-shadow: 2px 1.5px;
+}
 
 /* the styles for the main content */
 main {
